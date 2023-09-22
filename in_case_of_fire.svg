@@ -2,23 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="990"
    height="765"
    viewBox="0 0 990 765"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="in_case_of_fire.svg"
-   inkscape:export-filename="/Users/louim/Documents/in_case_of_fire/in_case_of_fire_ink.png"
+   inkscape:export-filename="../in_case_of_fire_ink.pdf"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,18 +28,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="64.993404"
-     inkscape:cy="473.85076"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-667.71083"
+     inkscape:cy="427.29452"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
-     inkscape:window-width="1280"
-     inkscape:window-height="751"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1392"
+     inkscape:window-height="1205"
+     inkscape:window-x="219"
+     inkscape:window-y="87"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,49 +116,47 @@
      inkscape:label="text">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:49.17835236px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="57.222466"
        y="168.74156"
-       id="text3459"
-       sodipodi:linespacing="125%"><tspan
+       id="text3459"><tspan
          sodipodi:role="line"
          id="tspan3461"
          x="57.222466"
          y="168.74156"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:86.06211853px;font-family:Menlo;-inkscape-font-specification:'Menlo Bold';fill:#ffffff">In case of fire</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:86.0621px;line-height:1.25;font-family:Menlo;-inkscape-font-specification:'Menlo Bold';fill:#ffffff">In case of fire</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:72.78382874px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="192.16125"
        y="404.19373"
-       id="text3741"
-       sodipodi:linespacing="200%"><tspan
+       id="text3741"><tspan
          sodipodi:role="line"
          id="tspan3743"
          x="192.16125"
          y="404.19373"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;font-family:Menlo;-inkscape-font-specification:'Menlo Bold'">1. git commit</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72.7838px;line-height:200%;font-family:Menlo;-inkscape-font-specification:'Menlo Bold'">1. git commit -am fire</tspan><tspan
          sodipodi:role="line"
          x="192.16125"
          y="549.76135"
          id="tspan3745"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;font-family:Menlo;-inkscape-font-specification:'Menlo Bold'">2. git push</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72.7838px;line-height:200%;font-family:Menlo;-inkscape-font-specification:'Menlo Bold'">2. git push</tspan><tspan
          sodipodi:role="line"
          x="192.16125"
-         y="695.32904"
+         y="695.32892"
          id="tspan3747"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;font-family:Menlo;-inkscape-font-specification:'Menlo Bold'">3. leave building</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72.7838px;line-height:200%;font-family:Menlo;-inkscape-font-specification:'Menlo Bold'">3. leave building</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="685.71429"
        y="545"
-       id="text3749"
-       sodipodi:linespacing="125%"><tspan
+       id="text3749"><tspan
          sodipodi:role="line"
          id="tspan3751"
          x="685.71429"
-         y="545" /></text>
+         y="545"
+         style="font-size:40px;line-height:1.25"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
