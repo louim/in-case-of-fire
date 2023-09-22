@@ -11,3 +11,4 @@ Pull request for different formats welcome!
 Original *git push* and *git commit* icon are (c) Github.
 
 (c) 2015 [Louis-Michel Couture](https://twitter.com/louim)
+newline
